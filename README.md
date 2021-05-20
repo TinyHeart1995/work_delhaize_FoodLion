@@ -3,7 +3,7 @@ Help with work stuff such as follows:
 -work schedule time,hours, amd changes made 
 -pay periods dates, biweekly amount, and problems 
 -taxes taken every pay check amounts, changing details, pay b4 taken
-- Log in with IKG and Delhaize accounts
+- Log in with IKG and Delhaize accounts passwords, changes made, emails and user names as well as received info
 -Attempting to apply for full time positions amd different departments thrpughout store
 -receiving info for health benefits, openings, switching positions, amount of hours, and changes to status
 -vacation, amd time off
